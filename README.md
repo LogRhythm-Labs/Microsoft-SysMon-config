@@ -1,6 +1,6 @@
 # sysmon-config | A Sysmon configuration file for everybody to fork #
 
-Note: Current configuration is supported for use with Microsoft Sysmon version 12. An update will be coming soon to support version 12.x and newer.
+Note: Current configuration has been tested with version 12 and 13.01.
 
 This is a Microsoft Sysinternals Sysmon configuration file template with default high-quality event tracing.
 
